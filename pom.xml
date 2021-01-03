@@ -186,7 +186,7 @@
         <dependency>
             <groupId>pl.charmas.android</groupId>
             <artifactId>android-reactive-location</artifactId>
-            <version>0.8</version>
+            <version>0.10</version>
             <type>aar</type>
             <exclusions>
                 <exclusion>
