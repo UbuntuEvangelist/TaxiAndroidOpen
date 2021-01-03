@@ -308,7 +308,7 @@
             <groupId>com.joanzapata.iconify</groupId>
             <artifactId>android-iconify-material</artifactId>
             <type>aar</type>
-            <version>2.1.1</version>
+            <version>2.2.2</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.joanzapata.iconify</groupId>
