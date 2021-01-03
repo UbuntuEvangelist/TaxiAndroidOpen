@@ -251,7 +251,7 @@
         <dependency>
             <groupId>com.facebook.android</groupId>
             <artifactId>facebook-android-sdk</artifactId>
-            <version>4.5.0</version>
+            <version>4.42.0</version>
             <type>aar</type>
             <!--<exclusions>
                 <exclusion>
